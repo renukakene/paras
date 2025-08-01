@@ -1,6 +1,6 @@
 # 🛒 Paras Stationery Website
 
-This is a fully functional **stationery website project** developed as part of a college assignment. It allows customers to browse stationery items, add them to a cart, and place orders. The admin can manage the product listings and view orders.
+This is **stationery website project** developed as part of a college academic work. It allows customers to browse stationery items, add them to a cart, and place orders. The admin can manage the product listings and view orders.
 
 ---
 
