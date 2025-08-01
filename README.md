@@ -44,7 +44,7 @@ This is a fully functional **stationery website project** developed as part of a
 1. Install [XAMPP](https://www.apachefriends.org/)
 2. Clone this repository:
 3. Move the project folder into `htdocs` inside the XAMPP directory
-4. Import the included `database.sql` file into **phpMyAdmin**
+4. Create database and tables in phpmyadmin and connect them.
 5. Start **Apache** and **MySQL** using XAMPP
 6. Open your browser and go to:
 - `http://localhost/paras-stationery/`  
@@ -53,9 +53,11 @@ This is a fully functional **stationery website project** developed as part of a
 ---
 
 🔐 Admin Credentials (for demo)
+
 Username: admin
 
 Password: admin123
+
 ⚠️ Change these credentials in a production environment.
 
 
